@@ -1,0 +1,4 @@
+whether_k_test: true # 测试k值对于模型准确度的影响
+n_neighbors_lowest: 1
+n_neighbors_highest: 55
+n_neighbors: 5
